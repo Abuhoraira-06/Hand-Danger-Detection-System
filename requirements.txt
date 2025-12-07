@@ -1,0 +1,5 @@
+opencv-contrib-python==4.12.0.88
+opencv-python==4.11.0.86
+
+numpy==2.2.6
+numpydoc @ file:///C:/b/abs_bbspp5l8vu/croot/numpydoc_1718279185573/work
